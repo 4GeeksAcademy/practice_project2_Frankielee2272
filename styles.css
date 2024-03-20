@@ -1,4 +1,17 @@
-
-
-
-
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: linear-gradient(
+        to bottom,
+        rgba(255, 255, 255, 0.5),
+        rgba(255, 255, 255, 0.5)
+      ),
+      url("https://th.bing.com/th/id/OIP.ZfKeIlNTyZgJj1YU7OWjpAHaE7?rs=1&pid=ImgDetMain");
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
